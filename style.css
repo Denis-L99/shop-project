@@ -115,7 +115,7 @@ body {
     transition: all 0.3s ease
 }
 .drop {
-    background: url(/lesson-7/shop-project/images/arrow\ down.png) no-repeat center right;
+    background: url(images/arrow\ down.png) no-repeat center right;
     background-size: 10%;
 }
 .form-search-header {
@@ -328,7 +328,7 @@ body {
     position: relative;
 }
 .like:hover a {
-    background: url("/lesson-7/shop-project/images/like2.png") no-repeat 50% 50% #2c71b8 ;
+    background: url("images/like2.png") no-repeat 50% 50% #2c71b8 ;
     width: 30px;
     height: 30px;
     position: absolute;
@@ -337,7 +337,7 @@ body {
     transform: translate(-50%, -50%)
 }
 .zoom:hover a {
-    background: url("/lesson-7/shop-project/images/square2.png") no-repeat 50% 50% #2c71b8 ;
+    background: url("images/square2.png") no-repeat 50% 50% #2c71b8 ;
     width: 30px;
     height: 30px;
     position: absolute;
